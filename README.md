@@ -1,7 +1,7 @@
 # Hi there, I'm Jasmine 👋
 
 ### About Me
-- 🎓An IT Graduate from **The Polytechnic University of the Philippines**.
+- 🎓 An IT Graduate from **The Polytechnic University of the Philippines**.
 - 💻 Pursued **Bachelor of Science in Information Technology**.
 - 💼 Experience in **QA testing**, **Data Analysis**, **Web Design** and **Software Development**.
 - 👨‍💻 I have experience working with tools like **Trello**, **Microsoft Suite**, and **.NET MAUI**.
