@@ -1,14 +1,13 @@
 # Hi there, I'm Jasmine 👋
 
 ### About Me
-- 🎓 Graduating student from **The Polytechnic University of the Philippines**.
-- 💻 Pursuing a **Bachelor of Science in Information Technology**.
+- 🎓An IT Graduate from **The Polytechnic University of the Philippines**.
+- 💻 Pursued **Bachelor of Science in Information Technology**.
 - 💼 Experience in **QA testing**, **Data Analysis**, **Web Design** and **Software Development**.
 - 👨‍💻 I have experience working with tools like **Trello**, **Microsoft Suite**, and **.NET MAUI**.
 - 🌱 Currently learning **Xamarin Forms** and **.NET MAUI** for mobile app development.
 
 ### Skills
-- **Languages**: C#, JavaScript, Python
 - **Frameworks**: .NET MAUI, Xamarin Forms
 - **Tools**: GitHub, Trello, Microsoft Office, Visual Studio
 - **Testing**: Quality Assurance Testing, Data Analysis
